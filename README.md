@@ -1,6 +1,4 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 1) In the project directory, you can run following command to install dependencies:
 
@@ -10,6 +8,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### `npm start`
 
-Show Some Love to This Repo
 
-Good Boy :)
